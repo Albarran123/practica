@@ -44,7 +44,7 @@ class Program
                 }
                 break;
             default:
-                Console.WriteLine("Opción no válida.");
+                Console.WriteLine("Opción no válida, por favor ingresar un número o dato valido.");
                 return;
         }
 
