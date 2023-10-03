@@ -44,10 +44,10 @@ class Program
                 }
                 break;
             default:
-                Console.WriteLine("Opción no válida, por favor ingresar un dato valido.");
+                Console.WriteLine("Opción no válida, ingresa un dato valido.");
                 return;
         }
 
-        Console.WriteLine("El resultado es: " + resultado);
+        Console.WriteLine("El resultado de la operación realizada es: " + resultado);
     }
 }  
